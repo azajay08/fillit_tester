@@ -7,3 +7,5 @@ solver tests, a test for every possible valid piece and a test for
 26 pieces.
 
 # Instructions
+git clone https://github.com/azajay08/fillit_tester.git fillit_tester
+into your fillit folder

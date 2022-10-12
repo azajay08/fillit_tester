@@ -12,7 +12,7 @@ git clone https://github.com/azajay08/fillit_tester.git fillit_tester
 ```  
 into the root of your project. `cd` into the fillit_tester directory  
 To run the tests, for example type, `sh 1_basic_eval.sh`
-There are 5 sets of tests in total. It works if the `Makefile` is in the root of the project, if not, just change the path on the `sh` files.
+There are 5 sets of tests in total. It works if the `Makefile` is in the root of the project, if not, just change the path in the `sh` files.
 
 # Evaluation
 The `1basic_eval.sh` test runs some of the same files as the evaluation tests.  
